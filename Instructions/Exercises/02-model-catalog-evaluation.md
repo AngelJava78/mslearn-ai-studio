@@ -151,7 +151,7 @@ Instead of uploading a test dataset, you'll use Foundry's synthetic data generat
 ### Step 4: Criteria
 
 1. In the **Criteria** step, view all of the suggested evaluators. These use an AI model as a judge to assess the quality of responses.
-1. Remove all of the criteria under *Agents*, leaving the rest of the evaluators enabled.
+1. Remove all of the criteria under *Agents* and *Safety*, leaving the rest of the evaluators enabled.
 1. Select **Next**.
 
 ### Step 5: Review and submit
